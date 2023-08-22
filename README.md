@@ -23,3 +23,4 @@ Abriendo desde el browser consultamos localhost:42800
 2. Ejecutamos HTTP server y abrimos nuestro browser
 3. En el espacio ponemos el nombre de la película. NOTA: El nombre debe ser inglés
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ricardo-Olarte/Movie_Browser_T1/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Ricardo-Olarte/Movie_Browser_T1/tree/main)
